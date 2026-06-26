@@ -22,5 +22,13 @@
     "category": "rent",
     "amount": 10000,
     "type": "expense"
+  },
+  {
+    "id": 1782449692774,
+    "date": "2026-07-01",
+    "desc": "Debt",
+    "category": "Debt",
+    "amount": 27000,
+    "type": "expense"
   }
 ]
