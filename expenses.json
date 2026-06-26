@@ -6,5 +6,13 @@
     "category": "credit",
     "amount": 58000,
     "type": "income"
+  },
+  {
+    "id": 1782449437215,
+    "date": "2026-07-01",
+    "desc": "car loan",
+    "category": "loan",
+    "amount": 7845,
+    "type": "expense"
   }
 ]
