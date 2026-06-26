@@ -14,5 +14,13 @@
     "category": "loan",
     "amount": 7845,
     "type": "expense"
+  },
+  {
+    "id": 1782449461009,
+    "date": "2026-07-01",
+    "desc": "rent",
+    "category": "rent",
+    "amount": 10000,
+    "type": "expense"
   }
 ]
